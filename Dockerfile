@@ -18,6 +18,7 @@ RUN pip install xlrd
 RUN pip install numpy
 RUN pip install pandas
 RUN pip install sklearn
+RUN pip install request
 
 WORKDIR /app
 COPY . /app
