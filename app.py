@@ -1,3 +1,4 @@
+
 from flask import Flask,  request, render_template
 from transformers import TFBertForTokenClassification
 from transformers import BertTokenizerFast
@@ -13,6 +14,7 @@ app = Flask(__name__)
 dizionario = {"tot val":0,"cognome":0,"nome":0,"indirizzo":0}
 @app.route("/")
 def home():
+
     return render_template("index.html")
 
 @app.route("/prova",methods=['GET', 'POST'])
@@ -177,8 +179,4 @@ def predict():
 
 
 
-@app.route("/users")
-def users_api():
-   f = open('data/esempio.json')
-   data = json.load(f)
-   return str(data)
+
