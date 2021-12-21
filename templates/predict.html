@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<head>
+ <title>Predizione default carte</title>
+</head>
+<body>
+ 
+ <h2>Default carte di credito</h2>
+ <ul>
+    <table>
+        <tr>
+          <th>Input</th>
+          <th>OUtput</th>
+        </tr>
+        <tr>
+          <td>January</td>
+          <td>$100</td>
+        </tr>
+        <tr>
+          <td>February</td>
+          <td>$80</td>
+        </tr>
+      </table>
+    {% for item in data %}
+        <li>{{item}}</li>
+       
+    {% endfor %}
+    </ul>
+ <p>Predizione: <b>{{ resp }}</b></p>
+</body>
+</html>

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<head>
+ <title>Anonim Application</title>
+ <link rel="stylesheet" href="{{ url_for('static', filename='css/index.css') }}">
+</head>
+<body>
+  <header>
+    <h1>Anonim</h1>
+
+  </header>
+  <main>
+    <div>
+      <h2>Scegliere un file JSON o XML da anonimizzare</h2>
+      <form method=POST enctype=multipart/form-data action="{{ url_for("prova") }}">
+        <input type=file accept=".json, .xml" name=file>
+        <input type=submit value=Upload>
+      </form>
+    </div>
+
+  </main>
+
+
+  
+</body>
+</html>
