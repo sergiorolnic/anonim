@@ -8,10 +8,26 @@ import json
 import pandas as pd
 import xml.etree.ElementTree as ET
 import os
-
+import time
+import random
 
 app = Flask(__name__)
-dizionario = {"tot val":0,"cognome":0,"nome":0,"indirizzo":0}
+df = pd.read_json("./data/randomData.json")
+
+
+def randomize(column):
+    rand_number = random.randrange(2000)
+    
+    value = ""
+    
+    
+    value = df[column][rand_number]
+    return value
+        
+
+
+
+
 @app.route("/")
 def home():
 
@@ -19,8 +35,9 @@ def home():
 
 @app.route("/prova",methods=['GET', 'POST'])
 def prova():
-    data = request.files["file"]
     
+    data = request.files["file"]
+    list_durata = []
   
     tokenizer = BertTokenizerFast.from_pretrained('dbmdz/bert-base-italian-cased')
    
@@ -31,8 +48,12 @@ def prova():
         data.save(os.path.join("./update_data/", data.filename))
         with open(os.path.join("./update_data/", data.filename)) as json_file:
            d_json = json.load(json_file)
+           tick = time.time()
+           righe=0
            for p in d_json:
-               dizionario["tot val"] += 1
+               start= time.time()
+               righe += 1
+            
                sentence = ""
                for k,v in p.items():
                    sentence += str(v) + " "
@@ -59,31 +80,25 @@ def prova():
                
                   if str(v) == cognome:
                     
-                     p[k] = "cognome nuovo"
+                     #p[k] = "cognome nuovo"
+                     p[k] = randomize("cognome")
                   if cognome in str(v) :
-                    dizionario["cognome"] += 1
-                    p[k] = str(v).replace(cognome, "cognome nuovo")
+                  
+                    p[k] = str(v).replace(cognome, randomize("cognome"))
 
                   if nome in str(v) :
-                    dizionario["nome"] += 1
-                    p[k] = str(v).replace(nome, "nome nuovo")
+                  
+                    p[k] = str(v).replace(nome,randomize("man_name"))
 
                   if indirizzo in str(v) :
-                    dizionario["indirizzo"] += 1
-                    p[k] = str(v).replace(indirizzo, "indirizzo nuovo")    
+                  
+                    p[k] = str(v).replace(indirizzo, randomize("indirizzo"))   
+               stop = time.time()
+               list_durata.append(stop-start)
+
 
            with open('output.json', 'w') as f:
-              json.dump(d_json, f  )       
-       # print(df)
-       # print(os.path.join("./update_data/", data.filename))
-      
-        #data.save(os.path.join("./update_data/", data.filename))
-
-        #with open(os.path.join("./update_data/", data.filename), 'w') as outfile:
-         #  json.dump(data, outfile)
-
-       # data.save(os.path.join("./update_data/", data.filename))
-      
+              json.dump(d_json, f  )            
 
 
 
@@ -98,12 +113,13 @@ def prova():
 
         d = []
         cols = []
-
+        tick = time.time()
+        righe=0
         for i, child in enumerate(root):
-            
+            start= time.time()
             d.append([subchild.text for subchild in child])
             cols.append(child.tag)
-            dizionario["tot val"] += 1
+            righe += 1
             sentence = ""
             for subchild in child:
                 sentence += str(subchild.text) + " "
@@ -128,16 +144,19 @@ def prova():
             for subchild in child:
               
                 if cognome in str(subchild.text) :
-                    dizionario["cognome"] += 1
+                   
                     subchild.text = str(subchild.text).replace(cognome, "cognome nuovo")
 
                 if nome in str(subchild.text) :
-                    dizionario["nome"] += 1
+              
                     subchild.text = str(subchild.text).replace(nome, "nome nuovo")
 
                 if indirizzo in str(subchild.text) :
-                    dizionario["indirizzo"] += 1
+                 
                     subchild.text = str(subchild.text).replace(indirizzo, "indirizzo nuovo")    
+
+            stop = time.time()
+            list_durata.append(stop-start)        
 
 
 
@@ -155,9 +174,15 @@ def prova():
 
     
     print(data.filename)
+    list_def = []
+    for x in list_durata:
+        list_def.append(x-(sum(list_durata)/righe))
     
+    varianza = sum(list_def)/righe
+    duration = time.time()-tick
+    dizi = {"righe":righe, "duration":duration, "media": duration/righe, "varianza":varianza}
     #return str(file)
-    return str(dizionario)
+    return str(dizi)
 
 from flask import jsonify
 @app.route("/predict")
