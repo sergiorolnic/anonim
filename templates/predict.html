@@ -1,30 +1,24 @@
 <!DOCTYPE html>
 <head>
- <title>Predizione default carte</title>
+ <title>Anonim Application</title>
+ <link rel="stylesheet" href="{{ url_for('static', filename='css/index.css') }}">
 </head>
 <body>
- 
- <h2>Default carte di credito</h2>
- <ul>
-    <table>
-        <tr>
-          <th>Input</th>
-          <th>OUtput</th>
-        </tr>
-        <tr>
-          <td>January</td>
-          <td>$100</td>
-        </tr>
-        <tr>
-          <td>February</td>
-          <td>$80</td>
-        </tr>
-      </table>
-    {% for item in data %}
-        <li>{{item}}</li>
-       
-    {% endfor %}
-    </ul>
- <p>Predizione: <b>{{ resp }}</b></p>
+  <header>
+    <h1>Anonim</h1>
+
+  </header>
+  <main>
+    <div>
+      <h2>Anonimizzazione completata. E' stato creato il file di output nella radice del progetto</h2>
+      <form>
+        <input type="button" value="Go back!" onclick="history.go(-1)">
+       </form>
+    </div>
+
+  </main>
+
+
+  
 </body>
 </html>

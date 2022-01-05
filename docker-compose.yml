@@ -1,11 +1,8 @@
-version: '3.4'
+version: '3.9'
 
 services:
-  anonim:
-    image: anonim
+  web:
     build:
-      context: .
-      dockerfile: ./Dockerfile
     ports:
-      - 5000:5000
+      - "5000:5000"
  

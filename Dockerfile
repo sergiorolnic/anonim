@@ -1,35 +1,23 @@
 # For more information, please refer to https://aka.ms/vscode-docker-python
-FROM python:3.8-slim-buster
+FROM python:3.9
 
-EXPOSE 5000
+WORKDIR /code
+ENV FLASK_APP=app.py
+ENV FLASKRUN_HOST=0.0.0.0
 
-ENV VAR1=10
 
-# Keeps Python from generating .pyc files in the container
-ENV PYTHONDONTWRITEBYTECODE=1
-
-# Turns off buffering for easier container logging
-ENV PYTHONUNBUFFERED=1
-
-# Install pip requirements
-COPY requirements.txt .
-RUN python -m pip install -r requirements.txt
+RUN python -m pip install --upgrade pip
+COPY requirements.txt requirements.txt
+RUN pip install -r requirements.txt
 RUN pip install xlrd
 RUN pip install numpy
 RUN pip install pandas
 RUN pip install sklearn
 RUN pip install request
+RUN pip install --upgrade tensorflow
+RUN pip install transformers
 
-WORKDIR /app
-COPY . /app
+EXPOSE 5000
 
-# Creates a non-root user with an explicit UID and adds permission to access the /app folder
-# For more info, please refer to https://aka.ms/vscode-docker-python-configure-containers
-RUN adduser -u 5678 --disabled-password --gecos "" appuser && chown -R appuser /app
-
-
-
-USER appuser
-
-# During debugging, this entry point will be overridden. For more information, please refer to https://aka.ms/vscode-docker-python-debug
-CMD ["gunicorn", "--bind", "0.0.0.0:5000", "app:app"]
+COPY . .
+CMD ["flask", "run"]
