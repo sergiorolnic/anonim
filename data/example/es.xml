@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <cod_prv>5</cod_prv>
+    <cod_com>22</cod_com>
+    <id>1</id>
+    <cognome>AHMETOVIC</cognome>
+    <nome>MEHO</nome>
+    <sesso>M</sesso>
+    <data_nascita>20051974</data_nascita>
+    <luogo_nascita>BOSNIA-ERZEGOVINA</luogo_nascita>
+    <cf>HMTMHE74E20Z153Q</cf>
+    <prov_nascita>EE</prov_nascita>
+    <comune_res>MONCALIERI</comune_res>
+    <prov_res>TO</prov_res>
+    <citt>BIH</citt>
+    <indirizzo>STRADA VINOVO SNC</indirizzo>
+    <cap>10024</cap>
+    <dato1>9032017</dato1>
+    <dato2>122049</dato2>
+    <dato3>23</dato3>
+    <dato4>9032017</dato4>
+    <dato5>16072008</dato5>
+    <dato6>12112021 05:49:25</dato6>
+    <dato7>CENS2011</dato7>
+  </row>
+  <row>
+    <cod_prv>5</cod_prv>
+    <cod_com>22</cod_com>
+    <id>2</id>
+    <cognome>GIORDANI</cognome>
+    <nome>SILVIA</nome>
+    <sesso>F</sesso>
+    <data_nascita>29061981</data_nascita>
+    <luogo_nascita>TORINO</luogo_nascita>
+    <cf>GRDSLV81H69L219C</cf>
+    <prov_nascita>TO</prov_nascita>
+    <comune_res>MONCALIERI</comune_res>
+    <prov_res>TO</prov_res>
+    <citt>ITA</citt>
+    <indirizzo>VIA AMILCARE PONCHIELLI 26</indirizzo>
+    <cap>10024</cap>
+    <dato1>24032017</dato1>
+    <dato2>124156</dato2>
+    <dato3>1</dato3>
+    <dato4>25062011</dato4>
+    <dato5>14012010</dato5>
+    <dato6>12112021 05:49:25</dato6>
+    <dato7>CENS2011</dato7>
+  </row>
+  <row>
+    <cod_prv>5</cod_prv>
+    <cod_com>22</cod_com>
+    <id>8</id>
+    <cognome>ABATE</cognome>
+    <nome>CALOGERA</nome>
+    <sesso>F</sesso>
+    <data_nascita>15071970</data_nascita>
+    <luogo_nascita>MONCALIERI</luogo_nascita>
+    <cf>BTACGR70L55F335R</cf>
+    <prov_nascita>TO</prov_nascita>
+    <comune_res>MONCALIERI</comune_res>
+    <prov_res>TO</prov_res>
+    <citt>ITA</citt>
+    <indirizzo>VIA JUGLARIS 66</indirizzo>
+    <cap>10024</cap>
+    <dato1>24032017</dato1>
+    <dato2>10005</dato2>
+    <dato3>1</dato3>
+    <dato4>12052010</dato4>
+    <dato5>29011968</dato5>
+    <dato6>12112021 05:49:25</dato6>
+    <dato7>CENS2011</dato7>
+  </row>
+  <row>
+    <cod_prv>5</cod_prv>
+    <cod_com>22</cod_com>
+    <id>11</id>
+    <cognome>ABATE</cognome>
+    <nome>ELENA</nome>
+    <sesso>F</sesso>
+    <data_nascita>19031946</data_nascita>
+    <luogo_nascita>MONTALTO UFFUGO</luogo_nascita>
+    <cf>BTALNE46C59F416B</cf>
+    <prov_nascita>CS</prov_nascita>
+    <comune_res>MONCALIERI</comune_res>
+    <prov_res>TO</prov_res>
+    <citt>ITA</citt>
+    <indirizzo>VIA JUGLARIS 27</indirizzo>
+    <cap>10024</cap>
+    <dato1>24032017</dato1>
+    <dato2>27848</dato2>
+    <dato3>1</dato3>
+    <dato4>20022014</dato4>
+    <dato5>11041972</dato5>
+    <dato6>12112021 05:49:25</dato6>
+    <dato7>CENS2011</dato7>
+  </row>
+  <row>
+    <cod_prv>5</cod_prv>
+    <cod_com>22</cod_com>
+    <id>13</id>
+    <cognome>ABATE</cognome>
+    <nome>EZIO</nome>
+    <sesso>M</sesso>
+    <data_nascita>8031935</data_nascita>
+    <luogo_nascita>BIANZE&apos;</luogo_nascita>
+    <cf>BTAZEI35C08A847I</cf>
+    <prov_nascita>VC</prov_nascita>
+    <comune_res>MONCALIERI</comune_res>
+    <prov_res>TO</prov_res>
+    <citt>ITA</citt>
+    <indirizzo>STRADA GENOVA 58</indirizzo>
+    <cap>10024</cap>
+    <dato1>24032017</dato1>
+    <dato2>10002</dato2>
+    <dato3>1</dato3>
+    <dato4>3101963</dato4>
+    <dato5>3101963</dato5>
+    <dato6>12112021 05:49:25</dato6>
+    <dato7>CENS2011</dato7>
+  </row>
+  <row>
+    <cod_prv>5</cod_prv>
+    <cod_com>22</cod_com>
+    <id>33913</id>
+    <cognome>MAJORE</cognome>
+    <nome>LILIANA</nome>
+    <sesso>F</sesso>
+    <data_nascita>2021926</data_nascita>
+    <luogo_nascita>MONCALIERI</luogo_nascita>
+    <cf>MJRLLN26B42F335H</cf>
+    <prov_nascita>TO</prov_nascita>
+    <comune_res>MONCALIERI</comune_res>
+    <prov_res>TO</prov_res>
+    <citt>ITA</citt>
+    <indirizzo>VIA BOGINO 11</indirizzo>
+    <cap>10024</cap>
+    <dato1>24032017</dato1>
+    <dato2>103962</dato2>
+    <dato3>1</dato3>
+    <dato4>7061995</dato4>
+    <dato5>7061995</dato5>
+    <dato6>12112021 05:49:25</dato6>
+    <dato7>CENS2011</dato7>
+  </row>
+  <row>
+    <cod_prv>5</cod_prv>
+    <cod_com>22</cod_com>
+    <id>33914</id>
+    <cognome>MAJORE</cognome>
+    <nome>SILVIA</nome>
+    <sesso>F</sesso>
+    <data_nascita>21051924</data_nascita>
+    <luogo_nascita>MONCALIERI</luogo_nascita>
+    <cf>MJRSLV24E61F335A</cf>
+    <prov_nascita>TO</prov_nascita>
+    <comune_res>MONCALIERI</comune_res>
+    <prov_res>TO</prov_res>
+    <citt>ITA</citt>
+    <indirizzo>VIA GOITO 9</indirizzo>
+    <cap>10024</cap>
+    <dato1>24032017</dato1>
+    <dato2>26547</dato2>
+    <dato3>1</dato3>
+    <dato4>20112013</dato4>
+    <dato5>21051924</dato5>
+    <dato6>12112021 05:49:25</dato6>
+    <dato7>CENS2011</dato7>
+  </row>
+  <row>
+    <cod_prv>5</cod_prv>
+    <cod_com>22</cod_com>
+    <id>33917</id>
+    <cognome>MALA</cognome>
+    <nome>FILIPPO</nome>
+    <sesso>M</sesso>
+    <data_nascita>27021938</data_nascita>
+    <luogo_nascita>MONCALIERI</luogo_nascita>
+    <cf>MLAFPP38B27F335L</cf>
+    <prov_nascita>TO</prov_nascita>
+    <comune_res>MONCALIERI</comune_res>
+    <prov_res>TO</prov_res>
+    <citt>ITA</citt>
+    <indirizzo>VIA BENVENUTO CELLINI 5</indirizzo>
+    <cap>10024</cap>
+    <dato1>24032017</dato1>
+    <dato2>49501</dato2>
+    <dato3>1</dato3>
+    <dato4>27021938</dato4>
+    <dato5>27021938</dato5>
+    <dato6>12112021 05:49:25</dato6>
+    <dato7>CENS2011</dato7>
+  </row>
+  <row>
+    <cod_prv>5</cod_prv>
+    <cod_com>22</cod_com>
+    <id>33918</id>
+    <cognome>MALA</cognome>
+    <nome>GIOVANNI</nome>
+    <sesso>M</sesso>
+    <data_nascita>28021967</data_nascita>
+    <luogo_nascita>MONCALIERI</luogo_nascita>
+    <cf>MLAGNN67B28F335K</cf>
+    <prov_nascita>TO</prov_nascita>
+    <comune_res>MONCALIERI</comune_res>
+    <prov_res>TO</prov_res>
+    <citt>ITA</citt>
+    <indirizzo>STRADA VILLASTELLONE 25/6</indirizzo>
+    <cap>10024</cap>
+    <dato1>24032017</dato1>
+    <dato2>111392</dato2>
+    <dato3>1</dato3>
+    <dato4>28092000</dato4>
+    <dato5>28092000</dato5>
+    <dato6>12112021 05:49:25</dato6>
+    <dato7>CENS2011</dato7>
+  </row>
+  <row>
+    <cod_prv>5</cod_prv>
+    <cod_com>22</cod_com>
+    <id>33919</id>
+    <cognome>MALA</cognome>
+    <nome>LUCIANA</nome>
+    <sesso>F</sesso>
+    <data_nascita>25041947</data_nascita>
+    <luogo_nascita>MONCALIERI</luogo_nascita>
+    <cf>MLALCN47D65F335Z</cf>
+    <prov_nascita>TO</prov_nascita>
+    <comune_res>MONCALIERI</comune_res>
+    <prov_res>TO</prov_res>
+    <citt>ITA</citt>
+    <indirizzo>VIA SESTRIERE 19</indirizzo>
+    <cap>10024</cap>
+    <dato1>24032017</dato1>
+    <dato2>30517</dato2>
+    <dato3>2</dato3>
+    <dato4>25041947</dato4>
+    <dato5>25041947</dato5>
+    <dato6>12112021 05:49:25</dato6>
+    <dato7>CENS2011</dato7>
+  </row>
+  <row>
+    <cod_prv>5</cod_prv>
+    <cod_com>22</cod_com>
+    <id>33923</id>
+    <cognome>MALABAILA</cognome>
+    <nome>MARGHERITA</nome>
+    <sesso>F</sesso>
+    <data_nascita>7041926</data_nascita>
+    <luogo_nascita>VILLAFRANCA D&apos;ASTI</luogo_nascita>
+    <cf>MLBMGH26D47L945V</cf>
+    <prov_nascita>AT</prov_nascita>
+    <comune_res>MONCALIERI</comune_res>
+    <prov_res>TO</prov_res>
+    <citt>ITA</citt>
+    <indirizzo>STRADA GENOVA 145</indirizzo>
+    <cap>10024</cap>
+    <dato1>24032017</dato1>
+    <dato2>12268</dato2>
+    <dato3>1</dato3>
+    <dato4>30091992</dato4>
+    <dato5>6081965</dato5>
+    <dato6>12112021 05:49:25</dato6>
+    <dato7>CENS2011</dato7>
+  </row>
+  <row>
+    <cod_prv>5</cod_prv>
+    <cod_com>22</cod_com>
+    <id>33924</id>
+    <cognome>MALABAILA</cognome>
+    <nome>MARIA</nome>
+    <sesso>F</sesso>
+    <data_nascita>16061961</data_nascita>
+    <luogo_nascita>MONCALIERI</luogo_nascita>
+    <cf>MLBMRA61H56F335A</cf>
+    <prov_nascita>TO</prov_nascita>
+    <comune_res>MONCALIERI</comune_res>
+    <prov_res>TO</prov_res>
+    <citt>ITA</citt>
+    <indirizzo>STRADA CARIGNANO 2/BIS</indirizzo>
+    <cap>10024</cap>
+    <dato1>24032017</dato1>
+    <dato2>17992</dato2>
+    <dato3>1</dato3>
+    <dato4>23012013</dato4>
+    <dato5>16061961</dato5>
+    <dato6>12112021 05:49:25</dato6>
+    <dato7>CENS2011</dato7>
+  </row>
+</root>  
