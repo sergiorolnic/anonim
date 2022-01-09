@@ -17,12 +17,32 @@ df = pd.read_json("./data/randomdata.json")
 
 
 def randomize(column):
+
+    """Get a random value from randomdata.json.
+
+    Args:
+        column: the name of the column as string
+     
+
+    Returns:
+        A random string value.
+    """ 
+
     rand_number = random.randrange(2000)
     value = ""
     value = df[column][rand_number]
     return value
 
 def find_sex(sentence):
+
+    """Find the sex of a person from the CF or the sex column.
+
+    Args:
+        sentence: The row from a file as a sentence string.
+
+    Returns:
+        The sex of the person in the row.
+    """ 
 
     c_f = ""
     sex = "F"
@@ -47,6 +67,17 @@ def find_sex(sentence):
     return sex, c_f      
 
 def split_address(address):
+
+    """Split the address number from the rest of the address
+
+    Args:
+        name: the name of the person as string
+        language: the language code string
+
+    Returns:
+        A number.
+    """ 
+
     indirizzo_i = ""
     ind_n_ = ""
     for s in address:
@@ -61,11 +92,24 @@ def split_address(address):
 @app.route("/")
 def home():
 
+    """The index of the app.
+
+    Returns:
+        A template.
+    """ 
+
+
     return render_template("index.html")
 
 
 @app.route("/predict",methods=['GET', 'POST'])
 def predict():
+
+    """Use a bert model for NER and afert this anonimize them.
+
+    Returns:
+        A template.
+    """ 
     
     data = request.files["file"]
 
