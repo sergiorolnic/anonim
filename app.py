@@ -75,9 +75,9 @@ def predict():
     
     if data.filename.lower().endswith(('.json')):
 
-        data.save(os.path.join("./update_data/", data.filename))
+        data.save(os.path.join("./data/update_data/", data.filename))
 
-        with open(os.path.join("./update_data/", data.filename)) as json_file:
+        with open(os.path.join("./data/update_data/", data.filename)) as json_file:
 
            d_json = json.load(json_file)
 
@@ -164,9 +164,9 @@ def predict():
 
     elif data.filename.lower().endswith(('.xml')):  
       
-        data.save(os.path.join("./update_data/", data.filename))
+        data.save(os.path.join("./data/update_data/", data.filename))
     
-        tree = ET.parse(os.path.join("./update_data/", data.filename))
+        tree = ET.parse(os.path.join("./data/update_data/", data.filename))
         root = tree.getroot()
  
         for i, child in enumerate(root):

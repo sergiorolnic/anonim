@@ -1,19 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <root>
   <row>
     <cod_prv>5</cod_prv>
     <cod_com>22</cod_com>
     <id>1</id>
-    <cognome>Azzalini</cognome>
-    <nome>Adastro</nome>
+    <cognome>AHMETOVIC</cognome>
+    <nome>MEHO</nome>
     <sesso>M</sesso>
     <data_nascita>20051974</data_nascita>
     <luogo_nascita>BOSNIA-ERZEGOVINA</luogo_nascita>
-    <cf>ABCXYZ00A99Z123X</cf>
+    <cf>HMTMHE74E20Z153Q</cf>
     <prov_nascita>EE</prov_nascita>
     <comune_res>MONCALIERI</comune_res>
     <prov_res>TO</prov_res>
     <citt>BIH</citt>
-    <indirizzo>CORSO VINOVO SNC</indirizzo>
+    <indirizzo>STRADA VINOVO SNC</indirizzo>
     <cap>10024</cap>
     <dato1>9032017</dato1>
     <dato2>122049</dato2>
@@ -27,17 +28,17 @@
     <cod_prv>5</cod_prv>
     <cod_com>22</cod_com>
     <id>2</id>
-    <cognome>Barbalace</cognome>
-    <nome>Altavilla</nome>
+    <cognome>GIORDANI</cognome>
+    <nome>SILVIA</nome>
     <sesso>F</sesso>
     <data_nascita>29061981</data_nascita>
     <luogo_nascita>TORINO</luogo_nascita>
-    <cf>ABCXYZ00A99Z123X</cf>
+    <cf>GRDSLV81H69L219C</cf>
     <prov_nascita>TO</prov_nascita>
     <comune_res>MONCALIERI</comune_res>
     <prov_res>TO</prov_res>
     <citt>ITA</citt>
-    <indirizzo>STRADA TORINO 73</indirizzo>
+    <indirizzo>VIA AMILCARE PONCHIELLI 26</indirizzo>
     <cap>10024</cap>
     <dato1>24032017</dato1>
     <dato2>124156</dato2>
@@ -51,17 +52,17 @@
     <cod_prv>5</cod_prv>
     <cod_com>22</cod_com>
     <id>8</id>
-    <cognome>Albini</cognome>
-    <nome>Egide</nome>
+    <cognome>ABATE</cognome>
+    <nome>CALOGERA</nome>
     <sesso>F</sesso>
     <data_nascita>15071970</data_nascita>
     <luogo_nascita>MONCALIERI</luogo_nascita>
-    <cf>ABCXYZ00A99Z123X</cf>
+    <cf>BTACGR70L55F335R</cf>
     <prov_nascita>TO</prov_nascita>
     <comune_res>MONCALIERI</comune_res>
     <prov_res>TO</prov_res>
     <citt>ITA</citt>
-    <indirizzo>VIA SESTRIERE 28</indirizzo>
+    <indirizzo>VIA JUGLARIS 66</indirizzo>
     <cap>10024</cap>
     <dato1>24032017</dato1>
     <dato2>10005</dato2>
@@ -75,17 +76,17 @@
     <cod_prv>5</cod_prv>
     <cod_com>22</cod_com>
     <id>11</id>
-    <cognome>Abelli</cognome>
-    <nome>Consuela</nome>
+    <cognome>ABATE</cognome>
+    <nome>ELENA</nome>
     <sesso>F</sesso>
     <data_nascita>19031946</data_nascita>
     <luogo_nascita>MONTALTO UFFUGO</luogo_nascita>
-    <cf>ABCXYZ00A99Z123X</cf>
+    <cf>BTALNE46C59F416B</cf>
     <prov_nascita>CS</prov_nascita>
     <comune_res>MONCALIERI</comune_res>
     <prov_res>TO</prov_res>
     <citt>ITA</citt>
-    <indirizzo>BORGATA TETTI PIATTI 43</indirizzo>
+    <indirizzo>VIA JUGLARIS 27</indirizzo>
     <cap>10024</cap>
     <dato1>24032017</dato1>
     <dato2>27848</dato2>
@@ -99,17 +100,17 @@
     <cod_prv>5</cod_prv>
     <cod_com>22</cod_com>
     <id>13</id>
-    <cognome>Acardi</cognome>
-    <nome>Cupido</nome>
+    <cognome>ABATE</cognome>
+    <nome>EZIO</nome>
     <sesso>M</sesso>
     <data_nascita>8031935</data_nascita>
-    <luogo_nascita>BIANZE'</luogo_nascita>
-    <cf>ABCXYZ00A99Z123X</cf>
+    <luogo_nascita>BIANZE&apos;</luogo_nascita>
+    <cf>BTAZEI35C08A847I</cf>
     <prov_nascita>VC</prov_nascita>
     <comune_res>MONCALIERI</comune_res>
     <prov_res>TO</prov_res>
     <citt>ITA</citt>
-    <indirizzo>VIA AMILCARE PONCHIELLI 67</indirizzo>
+    <indirizzo>STRADA GENOVA 58</indirizzo>
     <cap>10024</cap>
     <dato1>24032017</dato1>
     <dato2>10002</dato2>
@@ -123,17 +124,17 @@
     <cod_prv>5</cod_prv>
     <cod_com>22</cod_com>
     <id>33913</id>
-    <cognome>Albanesi</cognome>
-    <nome>Fenizia</nome>
+    <cognome>MAJORE</cognome>
+    <nome>LILIANA</nome>
     <sesso>F</sesso>
     <data_nascita>2021926</data_nascita>
     <luogo_nascita>MONCALIERI</luogo_nascita>
-    <cf>ABCXYZ00A99Z123X</cf>
+    <cf>MJRLLN26B42F335H</cf>
     <prov_nascita>TO</prov_nascita>
     <comune_res>MONCALIERI</comune_res>
     <prov_res>TO</prov_res>
     <citt>ITA</citt>
-    <indirizzo>VIA AMILCARE PONCHIELLI 58</indirizzo>
+    <indirizzo>VIA BOGINO 11</indirizzo>
     <cap>10024</cap>
     <dato1>24032017</dato1>
     <dato2>103962</dato2>
@@ -147,17 +148,17 @@
     <cod_prv>5</cod_prv>
     <cod_com>22</cod_com>
     <id>33914</id>
-    <cognome>Belmessieri</cognome>
-    <nome>Aldemia</nome>
+    <cognome>MAJORE</cognome>
+    <nome>SILVIA</nome>
     <sesso>F</sesso>
     <data_nascita>21051924</data_nascita>
     <luogo_nascita>MONCALIERI</luogo_nascita>
-    <cf>ABCXYZ00A99Z123X</cf>
+    <cf>MJRSLV24E61F335A</cf>
     <prov_nascita>TO</prov_nascita>
     <comune_res>MONCALIERI</comune_res>
     <prov_res>TO</prov_res>
     <citt>ITA</citt>
-    <indirizzo>STRADA VILLA STELLA 9</indirizzo>
+    <indirizzo>VIA GOITO 9</indirizzo>
     <cap>10024</cap>
     <dato1>24032017</dato1>
     <dato2>26547</dato2>
@@ -171,17 +172,17 @@
     <cod_prv>5</cod_prv>
     <cod_com>22</cod_com>
     <id>33917</id>
-    <cognome>Accotto</cognome>
-    <nome>Annunciato</nome>
+    <cognome>MALA</cognome>
+    <nome>FILIPPO</nome>
     <sesso>M</sesso>
     <data_nascita>27021938</data_nascita>
     <luogo_nascita>MONCALIERI</luogo_nascita>
-    <cf>ABCXYZ00A99Z123X</cf>
+    <cf>MLAFPP38B27F335L</cf>
     <prov_nascita>TO</prov_nascita>
     <comune_res>MONCALIERI</comune_res>
     <prov_res>TO</prov_res>
     <citt>ITA</citt>
-    <indirizzo>STRADA MARSE' 5</indirizzo>
+    <indirizzo>VIA BENVENUTO CELLINI 5</indirizzo>
     <cap>10024</cap>
     <dato1>24032017</dato1>
     <dato2>49501</dato2>
@@ -195,17 +196,17 @@
     <cod_prv>5</cod_prv>
     <cod_com>22</cod_com>
     <id>33918</id>
-    <cognome>Beatrice</cognome>
-    <nome>Everaldo</nome>
+    <cognome>MALA</cognome>
+    <nome>GIOVANNI</nome>
     <sesso>M</sesso>
     <data_nascita>28021967</data_nascita>
     <luogo_nascita>MONCALIERI</luogo_nascita>
-    <cf>ABCXYZ00A99Z123X</cf>
+    <cf>MLAGNN67B28F335K</cf>
     <prov_nascita>TO</prov_nascita>
     <comune_res>MONCALIERI</comune_res>
     <prov_res>TO</prov_res>
     <citt>ITA</citt>
-    <indirizzo>VIA VILLASTELLONE 25/6</indirizzo>
+    <indirizzo>STRADA VILLASTELLONE 25/6</indirizzo>
     <cap>10024</cap>
     <dato1>24032017</dato1>
     <dato2>111392</dato2>
@@ -219,17 +220,17 @@
     <cod_prv>5</cod_prv>
     <cod_com>22</cod_com>
     <id>33919</id>
-    <cognome>Audenino</cognome>
-    <nome>Gesualda</nome>
+    <cognome>MALA</cognome>
+    <nome>LUCIANA</nome>
     <sesso>F</sesso>
     <data_nascita>25041947</data_nascita>
     <luogo_nascita>MONCALIERI</luogo_nascita>
-    <cf>ABCXYZ00A99Z123X</cf>
+    <cf>MLALCN47D65F335Z</cf>
     <prov_nascita>TO</prov_nascita>
     <comune_res>MONCALIERI</comune_res>
     <prov_res>TO</prov_res>
     <citt>ITA</citt>
-    <indirizzo>STRADA PRESERASCA 8</indirizzo>
+    <indirizzo>VIA SESTRIERE 19</indirizzo>
     <cap>10024</cap>
     <dato1>24032017</dato1>
     <dato2>30517</dato2>
@@ -243,17 +244,17 @@
     <cod_prv>5</cod_prv>
     <cod_com>22</cod_com>
     <id>33923</id>
-    <cognome>Artuzzi</cognome>
-    <nome>Ernestina</nome>
+    <cognome>MALABAILA</cognome>
+    <nome>MARGHERITA</nome>
     <sesso>F</sesso>
     <data_nascita>7041926</data_nascita>
-    <luogo_nascita>VILLAFRANCA D'ASTI</luogo_nascita>
-    <cf>ABCXYZ00A99Z123X</cf>
+    <luogo_nascita>VILLAFRANCA D&apos;ASTI</luogo_nascita>
+    <cf>MLBMGH26D47L945V</cf>
     <prov_nascita>AT</prov_nascita>
     <comune_res>MONCALIERI</comune_res>
     <prov_res>TO</prov_res>
     <citt>ITA</citt>
-    <indirizzo>VIA S.VINCENZO 3</indirizzo>
+    <indirizzo>STRADA GENOVA 145</indirizzo>
     <cap>10024</cap>
     <dato1>24032017</dato1>
     <dato2>12268</dato2>
@@ -267,17 +268,17 @@
     <cod_prv>5</cod_prv>
     <cod_com>22</cod_com>
     <id>33924</id>
-    <cognome>Ancelotti</cognome>
-    <nome>Beppina</nome>
+    <cognome>MALABAILA</cognome>
+    <nome>MARIA</nome>
     <sesso>F</sesso>
     <data_nascita>16061961</data_nascita>
     <luogo_nascita>MONCALIERI</luogo_nascita>
-    <cf>ABCXYZ00A99Z123X</cf>
+    <cf>MLBMRA61H56F335A</cf>
     <prov_nascita>TO</prov_nascita>
     <comune_res>MONCALIERI</comune_res>
     <prov_res>TO</prov_res>
     <citt>ITA</citt>
-    <indirizzo>CORSO ROMA 2/BIS</indirizzo>
+    <indirizzo>STRADA CARIGNANO 2/BIS</indirizzo>
     <cap>10024</cap>
     <dato1>24032017</dato1>
     <dato2>17992</dato2>
@@ -287,4 +288,4 @@
     <dato6>12112021 05:49:25</dato6>
     <dato7>CENS2011</dato7>
   </row>
-</root>
+</root>  
