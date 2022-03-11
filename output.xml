@@ -3,8 +3,8 @@
     <cod_prv>5</cod_prv>
     <cod_com>22</cod_com>
     <id>1</id>
-    <cognome>Azzalini</cognome>
-    <nome>Adastro</nome>
+    <cognome>Amendola</cognome>
+    <nome>Ciso</nome>
     <sesso>M</sesso>
     <data_nascita>20051974</data_nascita>
     <luogo_nascita>BOSNIA-ERZEGOVINA</luogo_nascita>
@@ -13,7 +13,7 @@
     <comune_res>MONCALIERI</comune_res>
     <prov_res>TO</prov_res>
     <citt>BIH</citt>
-    <indirizzo>CORSO VINOVO SNC</indirizzo>
+    <indirizzo>VIA VINOVO SNC</indirizzo>
     <cap>10024</cap>
     <dato1>9032017</dato1>
     <dato2>122049</dato2>
@@ -27,8 +27,8 @@
     <cod_prv>5</cod_prv>
     <cod_com>22</cod_com>
     <id>2</id>
-    <cognome>Barbalace</cognome>
-    <nome>Altavilla</nome>
+    <cognome>Alessandrina</cognome>
+    <nome>Fidalmina</nome>
     <sesso>F</sesso>
     <data_nascita>29061981</data_nascita>
     <luogo_nascita>TORINO</luogo_nascita>
@@ -37,7 +37,7 @@
     <comune_res>MONCALIERI</comune_res>
     <prov_res>TO</prov_res>
     <citt>ITA</citt>
-    <indirizzo>STRADA TORINO 73</indirizzo>
+    <indirizzo>VIA AMILCARE PONCHIELLI 43</indirizzo>
     <cap>10024</cap>
     <dato1>24032017</dato1>
     <dato2>124156</dato2>
@@ -51,8 +51,8 @@
     <cod_prv>5</cod_prv>
     <cod_com>22</cod_com>
     <id>8</id>
-    <cognome>Albini</cognome>
-    <nome>Egide</nome>
+    <cognome>Barili</cognome>
+    <nome>Ambrogia</nome>
     <sesso>F</sesso>
     <data_nascita>15071970</data_nascita>
     <luogo_nascita>MONCALIERI</luogo_nascita>
@@ -61,7 +61,7 @@
     <comune_res>MONCALIERI</comune_res>
     <prov_res>TO</prov_res>
     <citt>ITA</citt>
-    <indirizzo>VIA SESTRIERE 28</indirizzo>
+    <indirizzo>STRADA CENASCO 21</indirizzo>
     <cap>10024</cap>
     <dato1>24032017</dato1>
     <dato2>10005</dato2>
@@ -75,8 +75,8 @@
     <cod_prv>5</cod_prv>
     <cod_com>22</cod_com>
     <id>11</id>
-    <cognome>Abelli</cognome>
-    <nome>Consuela</nome>
+    <cognome>Anzelmetti</cognome>
+    <nome>Deanna</nome>
     <sesso>F</sesso>
     <data_nascita>19031946</data_nascita>
     <luogo_nascita>MONTALTO UFFUGO</luogo_nascita>
@@ -85,7 +85,7 @@
     <comune_res>MONCALIERI</comune_res>
     <prov_res>TO</prov_res>
     <citt>ITA</citt>
-    <indirizzo>BORGATA TETTI PIATTI 43</indirizzo>
+    <indirizzo>PIAZZA VITTORIO EMANUELE 2</indirizzo>
     <cap>10024</cap>
     <dato1>24032017</dato1>
     <dato2>27848</dato2>
@@ -99,8 +99,8 @@
     <cod_prv>5</cod_prv>
     <cod_com>22</cod_com>
     <id>13</id>
-    <cognome>Acardi</cognome>
-    <nome>Cupido</nome>
+    <cognome>Abutzu</cognome>
+    <nome>Belardo</nome>
     <sesso>M</sesso>
     <data_nascita>8031935</data_nascita>
     <luogo_nascita>BIANZE'</luogo_nascita>
@@ -109,7 +109,7 @@
     <comune_res>MONCALIERI</comune_res>
     <prov_res>TO</prov_res>
     <citt>ITA</citt>
-    <indirizzo>VIA AMILCARE PONCHIELLI 67</indirizzo>
+    <indirizzo>STRADA C. FERRERO DI CAMBIANO 7</indirizzo>
     <cap>10024</cap>
     <dato1>24032017</dato1>
     <dato2>10002</dato2>
@@ -123,8 +123,8 @@
     <cod_prv>5</cod_prv>
     <cod_com>22</cod_com>
     <id>33913</id>
-    <cognome>Albanesi</cognome>
-    <nome>Fenizia</nome>
+    <cognome>Barb&#233;</cognome>
+    <nome>Clodomira</nome>
     <sesso>F</sesso>
     <data_nascita>2021926</data_nascita>
     <luogo_nascita>MONCALIERI</luogo_nascita>
@@ -133,7 +133,7 @@
     <comune_res>MONCALIERI</comune_res>
     <prov_res>TO</prov_res>
     <citt>ITA</citt>
-    <indirizzo>VIA AMILCARE PONCHIELLI 58</indirizzo>
+    <indirizzo>STRADA DEL PESCO 1</indirizzo>
     <cap>10024</cap>
     <dato1>24032017</dato1>
     <dato2>103962</dato2>
@@ -147,8 +147,8 @@
     <cod_prv>5</cod_prv>
     <cod_com>22</cod_com>
     <id>33914</id>
-    <cognome>Belmessieri</cognome>
-    <nome>Aldemia</nome>
+    <cognome>Balla</cognome>
+    <nome>Cesaria</nome>
     <sesso>F</sesso>
     <data_nascita>21051924</data_nascita>
     <luogo_nascita>MONCALIERI</luogo_nascita>
@@ -157,7 +157,7 @@
     <comune_res>MONCALIERI</comune_res>
     <prov_res>TO</prov_res>
     <citt>ITA</citt>
-    <indirizzo>STRADA VILLA STELLA 9</indirizzo>
+    <indirizzo>STRADA REVIGLIASCO 9</indirizzo>
     <cap>10024</cap>
     <dato1>24032017</dato1>
     <dato2>26547</dato2>
@@ -171,8 +171,8 @@
     <cod_prv>5</cod_prv>
     <cod_com>22</cod_com>
     <id>33917</id>
-    <cognome>Accotto</cognome>
-    <nome>Annunciato</nome>
+    <cognome>Balestrieri</cognome>
+    <nome>Azolino</nome>
     <sesso>M</sesso>
     <data_nascita>27021938</data_nascita>
     <luogo_nascita>MONCALIERI</luogo_nascita>
@@ -181,7 +181,7 @@
     <comune_res>MONCALIERI</comune_res>
     <prov_res>TO</prov_res>
     <citt>ITA</citt>
-    <indirizzo>STRADA MARSE' 5</indirizzo>
+    <indirizzo>STRADA REVIGLIASCO 104/BIS 5</indirizzo>
     <cap>10024</cap>
     <dato1>24032017</dato1>
     <dato2>49501</dato2>
@@ -195,8 +195,8 @@
     <cod_prv>5</cod_prv>
     <cod_com>22</cod_com>
     <id>33918</id>
-    <cognome>Beatrice</cognome>
-    <nome>Everaldo</nome>
+    <cognome>Baiamonti</cognome>
+    <nome>Florangelo</nome>
     <sesso>M</sesso>
     <data_nascita>28021967</data_nascita>
     <luogo_nascita>MONCALIERI</luogo_nascita>
@@ -219,8 +219,8 @@
     <cod_prv>5</cod_prv>
     <cod_com>22</cod_com>
     <id>33919</id>
-    <cognome>Audenino</cognome>
-    <nome>Gesualda</nome>
+    <cognome>Angioi</cognome>
+    <nome>Fleride</nome>
     <sesso>F</sesso>
     <data_nascita>25041947</data_nascita>
     <luogo_nascita>MONCALIERI</luogo_nascita>
@@ -229,7 +229,7 @@
     <comune_res>MONCALIERI</comune_res>
     <prov_res>TO</prov_res>
     <citt>ITA</citt>
-    <indirizzo>STRADA PRESERASCA 8</indirizzo>
+    <indirizzo>VIA GIORDANO BRUNO 8/BIS </indirizzo>
     <cap>10024</cap>
     <dato1>24032017</dato1>
     <dato2>30517</dato2>
@@ -243,8 +243,8 @@
     <cod_prv>5</cod_prv>
     <cod_com>22</cod_com>
     <id>33923</id>
-    <cognome>Artuzzi</cognome>
-    <nome>Ernestina</nome>
+    <cognome>Adessi</cognome>
+    <nome>Dolfina</nome>
     <sesso>F</sesso>
     <data_nascita>7041926</data_nascita>
     <luogo_nascita>VILLAFRANCA D'ASTI</luogo_nascita>
@@ -253,7 +253,7 @@
     <comune_res>MONCALIERI</comune_res>
     <prov_res>TO</prov_res>
     <citt>ITA</citt>
-    <indirizzo>VIA S.VINCENZO 3</indirizzo>
+    <indirizzo>CORSO SAVONA 103</indirizzo>
     <cap>10024</cap>
     <dato1>24032017</dato1>
     <dato2>12268</dato2>
@@ -267,8 +267,8 @@
     <cod_prv>5</cod_prv>
     <cod_com>22</cod_com>
     <id>33924</id>
-    <cognome>Ancelotti</cognome>
-    <nome>Beppina</nome>
+    <cognome>Apostolico</cognome>
+    <nome>Derna</nome>
     <sesso>F</sesso>
     <data_nascita>16061961</data_nascita>
     <luogo_nascita>MONCALIERI</luogo_nascita>
@@ -277,7 +277,7 @@
     <comune_res>MONCALIERI</comune_res>
     <prov_res>TO</prov_res>
     <citt>ITA</citt>
-    <indirizzo>CORSO ROMA 2/BIS</indirizzo>
+    <indirizzo>STRADA SANDA 2/BIS</indirizzo>
     <cap>10024</cap>
     <dato1>24032017</dato1>
     <dato2>17992</dato2>
